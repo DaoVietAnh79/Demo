@@ -1,0 +1,17 @@
+Bài 1:
+
+1. Thẻ mới: HTML5 giới thiệu nhiều thẻ mới để định nghĩa các phần tử trên trang web một cách ngắn gọn và rõ ràng hơn. Các thẻ mới bao gồm <header>, <footer>, <nav>, <section>, <article>, <aside>, <canvas>, <video>, <audio> và nhiều thẻ khác.
+
+2. Hỗ trợ đa phương tiện: HTML5 cung cấp tính năng tích hợp sẵn cho phương tiện đa phương tiện như video và audio. Thẻ <video> và <audio> cho phép nhúng và phát các tệp multimedia trực tiếp trên trang web mà không cần sử dụng plugin bên ngoài.
+
+3. Đồ họa và hoạt ảnh: HTML5 cung cấp các tính năng đồ họa và hoạt ảnh mạnh mẽ hơn so với các phiên bản HTML trước. Thẻ <canvas> cho phép vẽ đồ họa động và tạo các hiệu ứng đặc biệt bằng JavaScript. Ngoài ra, CSS3 cũng được hỗ trợ trong HTML5, cung cấp nhiều tính năng đồ họa và hiệu ứng mới.
+
+4. Lưu trữ dữ liệu cục bộ: HTML5 giới thiệu API Web Storage, cho phép lưu trữ dữ liệu cục bộ trên máy khách. Điều này cho phép ứng dụng web lưu trữ và truy cập dữ liệu trên máy tính của người dùng mà không cần sử dụng cookie.
+
+5. Responsive Web Design: HTML5 hỗ trợ các tính năng và thẻ mới để phát triển các trang web đáp ứng (responsive), tức là trang web có thể tự điều chỉnh và thích nghi với kích thước và độ phân giải của các thiết bị khác nhau, từ máy tính để bàn đến điện thoại di động.
+
+6. Geolocation: HTML5 cung cấp API Geolocation, cho phép ứng dụng web truy cập thông tin vị trí của người dùng. Điều này cho phép phát triển các ứng dụng dựa trên vị trí như bản đồ, hướng dẫn đường, tìm kiếm địa điểm gần nhất và nhiều hơn nữa.
+
+7. Offline Web Application: HTML5 hỗ trợ việc tạo ứng dụng web hoạt động offline.
+
+8. Tích hợp API: HTML5 cung cấp nhiều API tích hợp sẵn để truy cập vào các tính năng hệ thống như truy cập máy ảnh, microphone, giả lập trò chơi, trình phát multimedia, thông báo và nhiều hơn nữa. Điều này mở ra nhiều cơ hội cho phát triển ứng dụng web đa dạng và mạnh mẽ.
